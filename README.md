@@ -18,4 +18,6 @@ i am study
 
 #
 ### Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbeerAhmmd&theme=cobalt" alt="GitHub Streak" /></a>
+<div align="center" dir="auto">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbeerAhmmd&theme=cobalt" alt="GitHub Streak" /></a>
+</div>
