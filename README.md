@@ -1,3 +1,9 @@
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+friends+!+text;I+am+Abeer)](https://git.io/typing-svg)
+
+###
+
 # HI, I am Abeer Alsaeed! a Senior AI Student.
 i am study 
 #
