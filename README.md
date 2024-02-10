@@ -42,7 +42,7 @@ I am currently a student at IAU University majoring in Artificial intellegence.
 #
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;🔥 Github Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=AbeerAhmmd&hide_border=true&theme=nightowl" />
@@ -53,15 +53,4 @@ I am currently a student at IAU University majoring in Artificial intellegence.
 </details>
 
 <hr/>
-
-<p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
-</p>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=AbeerAhmmd&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
-</p>
 
