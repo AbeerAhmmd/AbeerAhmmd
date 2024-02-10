@@ -41,4 +41,7 @@ I am currently a student at IAU University majoring in Artificial intellegence.
 ###
 #
 
-❤ ❤ ❤
+<p align="center">
+          <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
+</p>
+
