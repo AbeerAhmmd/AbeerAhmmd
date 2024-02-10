@@ -1,6 +1,6 @@
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79DC6&random=false&width=435&lines=Hello%2C+dear+friends!;I'am+Abeer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79DC6&random=false&width=435&lines=Hello%2C+dear+friends!;I'm+Abeer+)](https://git.io/typing-svg)
 
 
 ###
