@@ -10,8 +10,6 @@
 I am currently a student at IAU University majoring in Artificial intellegence. 
 </br>
 
-#
-### 🛠️ My Favorite Tools & Languages
 
 <details>
   <summary><b> 🛠️ My Favorite Tools & Languages </b></summary>
@@ -31,26 +29,13 @@ I am currently a student at IAU University majoring in Artificial intellegence.
 <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-
-          
 </br>
-
-
 </details>
 </br>
 <hr/>
 
-#
-### 🔥 Streak Stats
-
-<div align="center" dir="auto">
-          <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbeerAhmmd&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
-</div>
 
 
-
-
-###
 #
 
 <details>
