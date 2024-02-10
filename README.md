@@ -31,7 +31,6 @@ I am currently a student at IAU University majoring in Artificial intellegence.
 <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 </br>
 </details>
-</br>
 <hr/>
 
 
