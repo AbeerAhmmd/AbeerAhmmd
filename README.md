@@ -35,9 +35,6 @@ I am currently a student at IAU University majoring in Artificial intellegence.
 <hr/>
 
 
-
-#
-
 <details>
   <summary><b> 🔥 Github Statistics</b></summary>
   <br/>
