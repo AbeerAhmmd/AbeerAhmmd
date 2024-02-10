@@ -9,7 +9,7 @@
 
 I am currently a student at IAU University majoring in Artificial intellegence. 
 
-<hr/>
+
 #
 ### 🛠️ My Favorite Tools & Languages
 
@@ -32,7 +32,12 @@ I am currently a student at IAU University majoring in Artificial intellegence.
 
           
 </br>
+
+
 </details>
+
+</br>
+</br>
 <hr/>
 
 #
