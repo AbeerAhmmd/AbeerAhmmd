@@ -28,7 +28,8 @@ i am study
 </br>
 
 #
-### Stats
+### 🔥 Streak Stats
+
 <div align="center" dir="auto">
           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbeerAhmmd&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </div>
