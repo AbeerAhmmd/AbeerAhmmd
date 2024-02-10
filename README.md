@@ -8,13 +8,15 @@
 ### 👋 Hi, there...
 
 I am currently a student at IAU University majoring in Artificial intellegence. 
-
+</br>
 
 #
 ### 🛠️ My Favorite Tools & Languages
 
 <details>
   <summary><b> 🛠️ My Favorite Tools & Languages </b></summary>
+  </br>
+  </br>
 
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -35,8 +37,6 @@ I am currently a student at IAU University majoring in Artificial intellegence.
 
 
 </details>
-
-</br>
 </br>
 <hr/>
 
