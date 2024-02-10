@@ -5,7 +5,7 @@
 
 ###
 
-# 👋👋👋
+# 👋 Hi, there...
 
 I am a currently a student at IAU University majoring in Artificial intellegence. 
 #
