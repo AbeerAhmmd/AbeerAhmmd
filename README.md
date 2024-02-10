@@ -29,9 +29,8 @@ i am study
 
 #
 ### Stats
-
 <div align="center" dir="auto">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbeerAhmmd&theme=onedark-duo" alt="GitHub Streak" /></a>
+          <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbeerAhmmd&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 
