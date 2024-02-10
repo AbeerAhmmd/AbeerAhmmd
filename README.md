@@ -35,8 +35,7 @@ I am currently a student at IAU University majoring in Artificial intellegence.
           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbeerAhmmd&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-<div align="left" dir="auto">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerAhmmd&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerAhmmd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 ###
