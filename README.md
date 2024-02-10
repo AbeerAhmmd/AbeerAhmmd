@@ -5,8 +5,9 @@
 
 ###
 
-# HI, I am Abeer Alsaeed! a Senior AI Student.
-i am study 
+# 👋👋👋
+
+I am a currently a student at IAU University majoring in Artificial intellegence. 
 #
 ### 🛠️ My Favorite Tools & Languages
 
