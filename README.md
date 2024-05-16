@@ -7,7 +7,7 @@
 
 ### 👋 Hi, there...
 
-I am currently a student at IAU University majoring in Artificial intellegence. 
+I am currently a student at IAU majoring in Artificial intellegence. 
 </br>
 
 
