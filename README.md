@@ -2,12 +2,25 @@
 
 ###
 
-### 👋 Hi, there...
+### Welcome to My GitHub! 👋
 
-I am currently a student at IAU majoring in Artificial intellegence. 
+I’m an AI graduate from Imam Abdulrahman Bin Faisal University (IAU), specializing in **Machine Learning**, **Deep Learning**, **Data Science**, and **Data Mining**. I focus on extracting valuable insights from large datasets by applying advanced data mining techniques like clustering, classification, and association rule mining. I’m passionate about using data to uncover patterns that drive decision-making.
+
+</br>
+</br>
+
+#### My Skills & Tools
+
+- **Languages**: Python, Java, SQL, C, C++
+- **Libraries/Frameworks**: Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, OpenCV
+- **Data Mining Techniques**: Clustering (K-means, DBSCAN), Classification, Association Rule Mining
+- **Tools**: Jupyter Notebook, Docker, AWS
+
+
 </br>
 </br>
 </br>
+
 
 
 <details>
